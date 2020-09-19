@@ -1,0 +1,10 @@
+[
+  {
+    "Seg": "string",
+    "Ref": "signed integer",
+    "Description": "string",
+    "M": "array",
+    "Value": "string",
+    "Mapped To": "string"
+  }
+]
